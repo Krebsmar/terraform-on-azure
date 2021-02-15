@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T11:51:33.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.1" etag="c3yK4Qsj3xRhw23V4_22" type="github"><diagram id="trmwDTjZfF8TrL9SQZGe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-15T12:30:25.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="9Gq_3L-2TIXEUOUMl36F" version="14.3.1" type="github">
+  <diagram id="trmwDTjZfF8TrL9SQZGe" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-4" value="Subscriptions: Kostenlose Testversion" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="800" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-5" value="Resource Group: myapp-resource_group" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="720" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-6" value="Virtual Network: myapp-vnet" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="630" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="40" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="31.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="55.21" y="30" width="24.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-7" value="Subnet: web" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-11" value="Subnet: database" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="40" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XDdNj8SKAHHg-HHvdZWl-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="40" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
